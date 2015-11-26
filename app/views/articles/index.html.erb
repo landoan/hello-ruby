@@ -1,0 +1,12 @@
+<p id="notice"><%= notice %></p>
+
+<div class="container">
+  <h1>Lan Doan's blog</h1>
+  <h2>My first blog written in ruby</h2>
+  
+  <%= render @articles %>
+
+  <br>
+
+  <%= link_to 'New Article', new_article_path %>
+</div>
