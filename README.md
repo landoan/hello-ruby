@@ -12,9 +12,9 @@ URL: **Insert your Heroku URL here**
 
 The following **required** functionality is complete:
 
-* [ ] User can create a new post, formatted using the Markdown language.
-* [ ] User can edit an existing post.
-* [ ] There is one post that introduces the App Creator with name, picture.
+* [x] User can create a new post, formatted using the Markdown language.
+* [x] User can edit an existing post.
+* [x] There is one post that introduces the App Creator with name, picture.
 
 The following **optional** features are implemented:
 * [ ] User can delete stories, with an alert that asks the user to confirm.
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](http://i.imgur.com/link/to/your/gif/file.gif)
+![Video Walkthrough](http://i.imgur.com/K51Wz4J.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
